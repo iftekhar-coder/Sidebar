@@ -4,10 +4,9 @@ A simple, good-looking, and interactive sidebar built using HTML and CSS. When c
 
 ##  Features
 
-- Slide-in / slide-out sidebar functionality
+- Slide-in / slide-out sidebar functionality without using javaScript
 - Smooth transitions using pure CSS
 - Clean and modern UI
-- No JavaScript required
 
 ##  Technologies Used
 
